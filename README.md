@@ -19,7 +19,9 @@ That contains following functionalities:
 
 ### 🔧 Installation
 
-```yarn```
+```
+yarn
+```
 
 create .env file with following keys and set the right values:
 ```
@@ -27,13 +29,14 @@ REACT_APP_MP_PUBLIC_KEY=<mercado_pago_public_key>
 REACT_APP_API_URL=<api_base_url>
 ```
 
-```yarn start```
+```
+yarn start
+```
 
 
 ## 🛠️ Built with
 
-* [ReactJS](http://www.dropwizard.io/1.0.2/docs/) - Main
-* [MUI](https://maven.apache.org/) - Components Library
-* [Styled Components](https://rometools.github.io/rome/) - Styl
-* [Mercado Pago Brick](https://rometools.github.io/rome/) - Payment Gateway
-* [Mercado Pago Brick](https://rometools.github.io/rome/) - Payment Gateway
+* [ReactJS]([http://www.dropwizard.io/1.0.2/docs/](https://react.dev/)) - Core
+* [MUI]([https://maven.apache.org/](https://mui.com/)) - Components Library
+* [Styled Components]([https://rometools.github.io/rome/](https://styled-components.com/)) - Visual Styles
+* [Mercado Pago Brick]([https://rometools.github.io/rome/](https://www.mercadopago.com.br/developers/pt/docs/checkout-bricks/landing)) - Payment Gateway
